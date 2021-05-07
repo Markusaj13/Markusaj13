@@ -2,7 +2,7 @@
 - 👀 I’m interested in working in UX
 - 🌱 I’m currently Studying to become a UX-Designer
 - 💞️ I’m looking to collaborate on anything that will add to my work experience
-- 📫 How to reach me: markus96johansson@hotmail.com
+- 📫 How to reach me: markus96johansson@gmail.com
 
 <!---
 Markusaj13/Markusaj13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
